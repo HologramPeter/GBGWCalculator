@@ -1,0 +1,8 @@
+﻿id,name,src,arm,mel,sht,bmr,phr,mdf,sdf
+1,All-Rounder,assets/images/job/01-all-rounder.svg,0,0,0,0,0,0,0
+2,Long-Shooter,assets/images/job/02-defender.svg,0,0,0.1,0,0,0,0
+3,Out-Fighter,assets/images/job/03-in-fighter.svg,0,0.1,0,0,0,0,0
+4,Middle-Shooter,assets/images/job/04-out-fighter.svg,0,0,0.1,0,0,0,0
+5,Defender,assets/images/job/05-middle-shooter.svg,0.05,0,0,0.05,0.05,0,0
+6,In-Fighter,assets/images/job/06-long-shooter.svg,0,0.1,0,0,0,0,0
+7,Supporter,assets/images/job/07-supporter.svg,0,0,0,0,0,0,0

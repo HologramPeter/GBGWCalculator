@@ -1,0 +1,1 @@
+start cmd /C "python translate_update.py"

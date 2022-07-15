@@ -1,0 +1,279 @@
+body{
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    width: 1240px;
+}
+
+#titlebar{
+    height: 30px;
+    justify-content: flex-start;
+}
+
+#title{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#author{
+    font-size: 16px;
+    font-style: italic;
+    padding: 5px;
+    padding-top: 15px;
+}
+
+/* gunpla */
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    user-select: none;
+    border-top: rgb(15, 111, 189) 1px solid;
+    border-bottom: rgb(15, 111, 189) 1px solid;
+}
+
+.row>div{
+    width: 60px;
+    height: 40px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* parts */
+
+.header{
+    background-color:royalblue;
+    color: white;
+}
+
+.total{
+    background-color: lightskyblue;
+}
+
+.part{
+    background-color: rgb(205, 231, 248);
+    display: none;
+}
+
+.active{
+    background-color: lightgoldenrodyellow;
+    color:black;
+}
+
+/* filters */
+
+
+select{
+    text-align: center;
+}
+
+
+
+/* attributes */
+
+.name{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.name::selection{
+    background: none;
+    background-color: lightgoldenrodyellow;
+}
+
+.attribute{
+    height: 15px;
+    display: none;
+}
+
+._attribute{
+    height: 15px;
+    display: none;
+}
+
+.countimg{
+    height: 15px;
+}
+
+
+
+
+
+
+/* containers */
+body>div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#gunpla{
+    width: 80%;
+}
+
+img{
+    height: 35px;
+}
+
+#gunplaParts{
+    width: 100%;
+    padding: 0px 10px;
+}
+
+.scroll{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+    overflow-y: auto;
+
+    width:180px !important;
+    text-align: left;
+    flex-direction: row !important;
+    justify-content: flex-start !important;
+}
+
+.descriptionHeader{
+    text-align: left;
+    width:180px !important;
+}
+
+.nameContainer{
+    width:180px !important;
+    justify-content: stretch;
+}
+
+.wordContainer{
+    width:100px !important;
+    text-align: left;
+}
+
+/* tables */
+
+#tableContainer{
+    width: 100%;
+    height: 480px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: rgb(240, 240, 240);
+}
+
+#search{
+    width: 100%;
+}
+
+#searchBar{
+    width: 100%;
+    height: 50px;
+    justify-content: space-evenly;
+}
+
+#searchBar>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    min-width: 60px;
+    max-width: 100px;
+}
+
+#collection>tr{
+    width: 100%;
+}
+
+#collection>tr>div{
+    width: 300px;
+    font-weight: bold;
+    margin: auto;
+    user-select: none;
+    cursor:pointer;
+    min-height:30px;
+    border-top: 4px solid;
+}
+
+#collection>tr>div:hover{
+    background-color: rgb(184, 192, 108);
+    
+}
+
+#collection>tr>div:active{
+    background-color: rgb(0, 78, 109);
+}
+
+#totalsum{
+    height: 20px;
+    padding-top: 3px;
+    font-size: 16px;
+}
+
+.hidden{
+    display: none;
+}
+
+
+/* js style */
+
+/* 
+.r6{
+    border-color: red;
+    color: red;
+}
+
+.r5{
+    border-color: rgb(255, 215, 0);
+    color: rgb(255, 215, 0);
+}
+
+.r4{
+    border-color: rgb(255, 0, 255);
+    color: rgb(255, 0, 255);
+}
+
+.r3{
+    border-color: rgb(114, 211, 250);
+    color: rgb(114, 211, 250);
+}
+
+.r2{
+    border-color: rgb(0, 182, 0);
+    color: rgb(0, 182, 0);
+}
+
+.r1{
+    border-color: black;
+    color: black;
+} */
+
+.altered{
+    background-color: rgb(255, 247, 200);
+}
+ 
+.r6{
+    color: red;
+}
+
+.r5{
+    color: rgb(182, 134, 0);
+}
+
+.r4{
+    color: rgb(255, 0, 255);
+}
+
+.r3{
+    color: blue;
+}
+
+.r2{
+    color: green;
+}
+
+.r1{
+    color: black;
+}
+
+table {border: none;}

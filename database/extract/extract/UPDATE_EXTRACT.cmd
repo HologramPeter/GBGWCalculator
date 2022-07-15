@@ -1,0 +1,1 @@
+start cmd /C "python extract_update.py >log.log"

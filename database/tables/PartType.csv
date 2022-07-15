@@ -1,0 +1,10 @@
+﻿id,name,src
+1,頭部,assets/images/part/01-head.svg
+2,身體,assets/images/part/02-body.svg
+3,手部,assets/images/part/03-arms.svg
+4,腳部,assets/images/part/04-legs.svg
+5,背部,assets/images/part/05-back.svg
+6,格鬥武器,assets/images/part/06-sword.svg
+7,射擊武器,assets/images/part/07-gun.svg
+8,盾牌,assets/images/part/08-shield.svg
+9,駕駛員,assets/images/part/09-pilot.svg

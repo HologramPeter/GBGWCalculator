@@ -1,0 +1,54 @@
+//TODO
+//encryption of obj
+// on click pack obj and send to compress.php
+// save as obj file
+// save on cookie[0,1,2]
+// load from cookie [0,1,2]
+// load form file
+
+
+
+encode/decode.php
+$method = $_POST['method']
+$str = $_POST['obj']
+if ($method = 1) then echo base64_encode(gzcompress($str,9));
+else echo gzuncompress(base64_decode($data));
+
+//echo base64_encode(gzcompress($str, 9)) . "\n";
+//echo bin2hex(gzcompress($str, 9)) . "\n";
+//echo urlencode(gzcompress($str, 9)) . "\n";
+
+
+
+
+
+//color scheme:
+//purple + silver + black, wing themed, melee
+
+//mintgreen/skyblue+white, zk. themed, all rounder 
+
+//black + gold, iron themed, beast melee
+
+
+
+ondocumentclose save version and serialize to cache
+
+
+//-----------------------------------
+var x = localstorage['gbgw'];
+
+onclose:
+prompt to save
+localstorage['gbgw'] = JSON.stringify({default: serialize()})
+menu onclick
+function restore(name){
+	obj = x[name] || null;
+	if (obj != null){
+		unserialise(obj);
+		displayall();
+	}
+)
+
+
+//add feature
+check job type for rarm later

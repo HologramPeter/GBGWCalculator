@@ -1,0 +1,20 @@
+<div id="hamburger"><div class="bar"></div></div>
+
+<div id="menu" class="menu_inactive">
+    <div style="position: relative; top: 100px;">
+        <div class="menu_txt" onclick="toggleColumns()">Default view</div>
+		<div class="menu_txt" onclick="toggleColumns('stat')">Attribute view</div>
+        <div class="menu_txt" onclick="toggleColumns('mel')">Melee view</div>
+        <div class="menu_txt" onclick="toggleColumns('sht')">Shooting view</div>
+        <div class="menu_txt" onclick="toggleColumns('skill')">Skill/Trait view</div>
+    </div>
+</div>
+<link rel='stylesheet' href='plugin/special_view.css'>
+<script>
+    var menu_button = document.getElementById('hamburger');
+    var menu = document.getElementById('menu');
+    menu_button.addEventListener('click', function(){
+        menu_button.classList.toggle('active');
+		menu.classList.toggle('menu_active');
+    });
+</script>

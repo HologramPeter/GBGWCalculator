@@ -1,0 +1,6 @@
+$ npm run build
+
+> learning-babel@1.0.0 build /Users/amir/Code/babel
+> babel src -d lib
+
+src/main.js -> lib/main.js

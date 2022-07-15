@@ -1,0 +1,206 @@
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4207,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%EF%BC%BBB%E8%A3%85%E5%82%99%EF%BC%BD%EF%BC%88%E9%A0%AD%EF%BC%89','ナラティブガンダム［B装備］（頭）','RX-9/B',0,5,2,1,16,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4207,99,1751,950,8563,1554,3710,516,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4207,90,1580,847,7691,1400,3334,465,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4207,80,1002,527,4842,884,2101,288,0);
+INSERT INTO PartTraitList (id,description1) VALUES (4207,'自機が《中距離戦》の時EXskillの威力30％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4208,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%88%E9%A0%AD%EF%BC%89','グフイグナイテッド（頭）','ZGMF-2000',0,3,2,1,9,24);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4208,99,2507,1095,4782,824,3235,601,601);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4208,90,2317,1010,4422,761,2982,559,559);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4208,80,1578,685,3013,516,2023,376,376);
+INSERT INTO PartTraitList (id,description1) VALUES (4208,'自機の属性がPowerの時耐久力が徐々に10ずつ回復');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4209,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%90%E3%83%AB%E3%83%90%E3%83%88%E3%82%B9%EF%BC%BB%E7%AC%AC6%E5%BD%A2%E6%85%8B%EF%BC%BD%EF%BC%88%E9%A0%AD%EF%BC%89','【改造】ガンダムバルバトス［第6形態］（頭）','ASW-G-08',1,6,3,1,24,3);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4209,99,2846,1932,8645,3005,3013,682,699);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4209,90,2555,1727,7755,2698,2705,613,630);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4209,80,1645,1104,4986,1736,1741,396,408);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4209,'大剣カテゴリ装備時EXskillの与ダメージ35上昇','自機の属性がSpeedの時耐久力が徐々に200ずつ回復');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4210,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%88%E9%A0%AD%EF%BC%89','【改造】ガンダムグシオンリベイクフルシティ（頭）','ASW-G-11',1,6,1,1,13,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4210,99,2466,2810,8931,2810,4590,735,744);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4210,90,2209,2519,8008,2519,4111,666,676);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4210,80,1418,1618,5145,1618,2637,435,442);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4210,'敵機を2体撃墜した時EXskillの威力30％上昇','物理タイプの攻撃時EXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4211,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%EF%BC%BBB%E8%A3%85%E5%82%99%EF%BC%BD%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','ナラティブガンダム［B装備］（胴体）','RX-9/B',0,5,2,2,16,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4211,99,4261,950,2874,1958,4261,1225,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4211,90,3834,847,2584,1753,3834,1105,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4211,80,2419,527,1628,1099,2419,683,0);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4211,7,'サイコミュ・ジャック',' 冷卻：33秒（初回 7秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4212,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','グフイグナイテッド（胴体）','ZGMF-2000',0,3,2,2,9,24);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4212,99,3235,1941,1095,1590,4020,728,728);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4212,90,2982,1793,1010,1464,3724,686,686);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4212,80,2023,1220,685,990,2543,468,468);
+INSERT INTO PartTraitList (id,description1) VALUES (4212,'サーベルカテゴリ装備時EXskillの貫通力22％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4213,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%90%E3%83%AB%E3%83%90%E3%83%88%E3%82%B9%EF%BC%BB%E7%AC%AC6%E5%BD%A2%E6%85%8B%EF%BC%BD%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','【改造】ガンダムバルバトス［第6形態］（胴体）','ASW-G-08',1,6,3,2,24,3);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4213,99,3864,2846,2836,3997,4007,913,689);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4213,90,3471,2555,2546,3587,3596,828,621);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4213,80,2235,1645,1638,2307,2314,540,401);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4213,'ジョブがDefenderの時射撃攻撃の被ダメージ35減少','射撃被ダメージが10％上昇し格闘攻撃の威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4214,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','【改造】ガンダムグシオンリベイクフルシティ（胴体）','ASW-G-11',1,6,1,2,13,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4214,99,3830,3268,3290,5720,5709,737,754);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4214,90,3437,2926,2948,5122,5111,668,685);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4214,80,2210,1876,1892,3284,3276,436,449);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4214,'自機が《中距離戦》の時EXskillの威力30％上昇','脚部パーツのEXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4215,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%EF%BC%BBB%E8%A3%85%E5%82%99%EF%BC%BD%EF%BC%88%E8%85%95%EF%BC%89','ナラティブガンダム［B装備］（腕）','RX-9/B',0,5,2,3,16,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4215,99,5690,3900,6019,950,11236,1919,1022);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4215,90,5109,3507,5403,847,10090,1748,919);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4215,80,3215,2212,3399,527,6351,1097,568);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4215,1,'4連装ミサイル・ランチャー',' 貫通：D 威力：B＋ 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4216,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%88%E8%85%95%EF%BC%89','グフイグナイテッド（腕）','ZGMF-2000',0,3,2,3,9,2);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4216,99,2507,6079,1482,1590,3235,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4216,90,2317,5614,1377,1464,2982,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4216,80,1578,3817,943,990,2023,0,0);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4216,2,'ドラウプニル４連装ビームガン',' 貫通：A－ 威力：D 冷卻：60秒（初回 0秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4217,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%90%E3%83%AB%E3%83%90%E3%83%88%E3%82%B9%EF%BC%BB%E7%AC%AC6%E5%BD%A2%E6%85%8B%EF%BC%BD%EF%BC%88%E8%85%95%EF%BC%89','【改造】ガンダムバルバトス［第6形態］（腕）','ASW-G-08',1,6,3,3,24,3);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4217,99,951,8635,3860,3864,3877,313,298);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4217,90,849,7746,3467,3471,3484,279,264);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4217,80,541,4979,2233,2235,2245,177,166);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4217,1,'★170mm機関砲',' 貫通：A－ 威力：B 冷卻：60秒（初回 0秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4218,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%88%E8%85%95%EF%BC%89','【改造】ガンダムグシオンリベイクフルシティ（腕）','ASW-G-11',1,6,1,3,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4218,99,2470,8931,4174,4164,5359,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4218,90,2213,8008,3746,3737,4812,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4218,80,1421,5145,2410,2403,3098,0,0);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4218,1,'★腕部ロケット砲',' 貫通：D 威力：B＋ 冷卻：60秒（初回 0秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4219,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%EF%BC%BBB%E8%A3%85%E5%82%99%EF%BC%BD%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','ナラティブガンダム［B装備］（脚部）','RX-9/B',0,5,2,4,16,1);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4219,99,2373,3043,2373,2129,4660,516,703);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4219,90,2133,2736,2133,1907,4181,465,634);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4219,80,1345,1723,1345,1195,2629,288,393);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4219,4,'ダブルサーベルコンボ',' 彈數：― 貫通：B＋ 威力：B－ 冷卻：21秒（初回 3秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4220,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','グフイグナイテッド（脚部）','ZGMF-2000',0,3,2,4,9,2);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4220,99,2888,1297,1095,1297,3235,1139,1139);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4220,90,2676,1191,1010,1191,2982,1055,1055);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4220,80,1828,804,685,804,2023,703,703);
+INSERT INTO PartTraitList (id,description1) VALUES (4220,'ビームタイプの攻撃時格闘攻撃の会心率17％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4221,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%90%E3%83%AB%E3%83%90%E3%83%88%E3%82%B9%EF%BC%BB%E7%AC%AC6%E5%BD%A2%E6%85%8B%EF%BC%BD%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','【改造】ガンダムバルバトス［第6形態］（脚部）','ASW-G-08',1,6,3,4,24,13);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4221,99,1939,2688,2462,3982,3991,1111,697);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4221,90,1734,2414,2205,3572,3581,1008,628);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4221,80,1110,1555,1415,2296,2303,659,407);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4221,'ジョブがDefenderの時EXskillの貫通力28％上昇','自機の属性がSpeedの時EXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4222,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','【改造】ガンダムグシオンリベイクフルシティ（脚部）','ASW-G-11',1,6,1,4,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4222,99,2992,3838,2470,5359,5352,1170,1170);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4222,90,2684,3444,2213,4812,4805,1050,1050);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4222,80,1726,2216,1421,3098,3092,676,676);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4222,3,'★シザース可変型リアアーマー',' 貫通：D 威力：S 冷卻：79秒（初回 20秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4223,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%EF%BC%BBB%E8%A3%85%E5%82%99%EF%BC%BD%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','ナラティブガンダム［B装備］（背中）','RX-9/B',0,5,2,5,16,1);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4223,99,2129,1751,3043,1958,4425,1225,1022);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4223,90,1907,1580,2736,1753,3980,1105,919);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4223,80,1195,1002,1723,1099,2511,683,568);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4223,2,'有線式遠隔攻撃端末',' 貫通：A＋ 威力：B－ 冷卻：21秒（初回 3秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4224,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','グフイグナイテッド（背中）','ZGMF-2000',0,3,2,5,9,2);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4224,99,2888,1297,1095,1941,3235,965,965);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4224,90,2676,1191,1010,1793,2982,902,902);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4224,80,1828,804,685,1220,2023,610,610);
+INSERT INTO PartTraitList (id,description1) VALUES (4224,'自機の属性がPowerの時格闘攻撃の与ダメージ20上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4225,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%90%E3%83%AB%E3%83%90%E3%83%88%E3%82%B9%EF%BC%BB%E7%AC%AC6%E5%BD%A2%E6%85%8B%EF%BC%BD%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','【改造】ガンダムバルバトス［第6形態］（背中）','ASW-G-08',1,6,3,5,24,13);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4225,99,1939,3017,2840,3978,3991,680,989);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4225,90,1734,2709,2549,3568,3581,611,887);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4225,80,1110,1744,1640,2293,2303,394,569);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4225,3,'★ブラッディレンチ',' 貫通：D 威力：S 冷卻：79秒（初回 20秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4226,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','【改造】ガンダムグシオンリベイクフルシティ（背中）','ASW-G-11',1,6,1,5,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4226,99,3458,3461,2644,4560,5145,1402,1404);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4226,90,3098,3102,2371,4081,4615,1265,1267);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4226,80,1989,1992,1523,2615,2966,820,821);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4226,1,'★サブアームレールガン',' 貫通：A－ 威力：B＋ 冷卻：21秒（初回 3秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4227,'/gbm/Shield%EF%BC%88%E7%9B%BE%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%BB%E3%82%B0%E3%83%95%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%EF%BC%BD%EF%BC%88%E7%9B%BE%EF%BC%89','シールド［グフイグナイテッド］（盾）','ZGMF-2000',0,3,2,8,9,2);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4227,99,2098,498,0,2507,4782,965,965);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4227,90,1929,455,0,2317,4422,902,902);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4227,80,1303,306,0,1578,3013,610,610);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4227,3,'シールドバッシュ',' 貫通：D 威力：B＋ 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4228,'/gbm/Shield%EF%BC%88%E7%9B%BE%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%82%B7%E3%82%B6%E3%83%BC%E3%82%B9%E5%8F%AF%E5%A4%89%E5%9E%8B%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%EF%BC%BB%E5%A4%A7%E5%9E%8B%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%BD%EF%BC%88%E7%9B%BE%EF%BC%89','【改造】シザース可変型リアアーマー［大型シールド］（盾）','ASW-G-11',1,6,1,8,13,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4228,99,2454,3442,1909,4738,6463,1597,1596);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4228,90,2198,3083,1704,4242,5796,1444,1442);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4228,80,1409,1978,1087,2720,3725,938,936);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4228,'自機が《ガンダムタイプ》の時射撃攻撃の被ダメージ35減少','自機の属性がTechniqueの時強化EXskillの効果30％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4229,'/gbm/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%93%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%BB%E3%83%8A%E3%83%A9%E3%83%86%E3%82%A3%E3%83%96%EF%BC%88B%E8%A3%85%E5%82%99%EF%BC%89%EF%BC%BD%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','ビーム・サーベル［ナラティブ（B装備）］（格闘）','RX-9/B',0,5,2,6,16,1);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4229,99,3345,7297,0,0,1358,1466,1022);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4229,90,3003,6562,0,0,1221,1330,919);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4229,80,1890,4138,0,0,770,830,568);
+INSERT INTO PartTraitList (id,description1) VALUES (4229,'自機が《連邦》の時EXskill初期チャージ量20％上昇');
+INSERT INTO PartSwordList (id,type) VALUES (4229,1);
+INSERT INTO PartDamageList (id,type) VALUES (4229,2);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4230,'/gbm/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88_%E3%83%93%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%BC%E3%83%89%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','テンペスト ビームソード（格闘）','ZGMF-2000',0,3,2,6,9,24);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4230,99,1297,7867,0,0,2507,601,601);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4230,90,1191,7275,0,0,2317,559,559);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4230,80,804,4957,0,0,1578,376,376);
+INSERT INTO PartTraitList (id,description1) VALUES (4230,'味方機が1体撃墜された時一度だけジョブゲージが40％上昇');
+INSERT INTO PartSwordList (id,type) VALUES (4230,1);
+INSERT INTO PartDamageList (id,type) VALUES (4230,2);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4231,'/gbm/%E5%A4%A7%E5%89%A3%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%83%AC%E3%83%B3%E3%83%81%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','【改造】レンチメイス（格闘）','ASW-G-08',1,6,3,6,24,3);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4231,99,944,11179,0,0,0,1007,1003);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4231,90,841,10033,0,0,0,904,900);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4231,80,536,6455,0,0,0,582,579);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (4231,3,'★メイスラッシュ',' 貫通：D 威力：A－ 冷卻：21秒（初回 6秒）');
+INSERT INTO PartSwordList (id,type) VALUES (4231,4);
+INSERT INTO PartDamageList (id,type) VALUES (4231,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4232,'/gbm/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AB%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%83%AC%E3%83%BC%E3%83%AB%E3%82%AC%E3%83%B3%EF%BC%BB%E3%82%B0%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%99%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%EF%BC%BD%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89','【改造】レールガン［グシオンリベイクフルシティ］（射撃）','ASW-G-11',1,6,1,7,13,7);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4232,99,2078,0,8565,1339,1939,912,908);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4232,90,1856,0,7676,1202,1734,826,822);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4232,80,1185,0,4928,774,1110,539,536);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (4232,'耐久力が60％以上の時敵のEXskillの威力30％減少','格闘被ダメージが10％上昇し射撃攻撃の威力35％上昇');
+INSERT INTO PartGunList (id,type) VALUES (4232,2);
+INSERT INTO PartDamageList (id,type) VALUES (4232,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4233,'/gbm/AI%EF%BC%88%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%9A%E3%83%BB%E3%83%89%E3%82%A5%E3%82%AC%E3%83%81%EF%BC%88%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%EF%BC%89','エウロペ・ドゥガチ（パイロット）','',0,4,2,9,10,15);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4233,99,2053,1249,1851,1031,1031,538,538);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4233,90,1846,1123,1662,923,923,484,484);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4233,80,1580,961,1419,785,785,406,406);
+INSERT INTO PartTraitList (id,description1) VALUES (4233,'自機の属性がPowerの時EXskillの回復量28％上昇');
+INSERT INTO PartJobList (id,type,description) VALUES (4233,6,'中距離レンジ/支援型');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (4234,'/gbm/AI%EF%BC%88%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%82%AB%E3%83%AA%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%83%E3%83%88%E3%83%BC%EF%BC%88%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%EF%BC%89','カリウス・オットー（パイロット）','',0,3,2,9,17,2);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4234,99,1071,1071,1071,1072,1064,0,507);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4234,90,990,990,990,991,983,0,471);
+INSERT INTO PartStatList (id,level,arm,mel,sht,mdf,sdf,bmr,phr) VALUES (4234,80,881,881,881,882,874,0,412);
+INSERT INTO PartTraitList (id,description1) VALUES (4234,'自機の属性がPowerの時全攻撃の会心率17％上昇');
+INSERT INTO PartJobList (id,type,description) VALUES (4234,4,'近距離レンジ/独立型');
+
+

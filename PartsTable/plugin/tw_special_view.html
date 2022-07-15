@@ -1,0 +1,20 @@
+<div id="hamburger"><div class="bar"></div></div>
+
+<div id="menu" class="menu_inactive">
+    <div style="position: relative; top: 100px;">
+        <div class="menu_txt" onclick="toggleColumns()">預設</div>
+		<div class="menu_txt" onclick="toggleColumns('stat')">數值特化</div>
+        <div class="menu_txt" onclick="toggleColumns('mel')">格鬥特化</div>
+        <div class="menu_txt" onclick="toggleColumns('sht')">射擊特化</div>
+        <div class="menu_txt" onclick="toggleColumns('skill')">技能特化</div>
+    </div>
+</div>
+<link rel='stylesheet' href='plugin/special_view.css'>
+<script>
+    var menu_button = document.getElementById('hamburger');
+    var menu = document.getElementById('menu');
+    menu_button.addEventListener('click', function(){
+        menu_button.classList.toggle('active');
+		menu.classList.toggle('menu_active');
+    });
+</script>

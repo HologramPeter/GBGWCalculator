@@ -1,0 +1,2 @@
+start cmd /C "start chrome https://www.facebook.com/groups/397240884973162/permalink/521046539259262/ https://www.facebook.com/groups/897709473934527/permalink/1431153573923445/ https://www.facebook.com/groups/480069769229561/permalink/943889169514283/ https://www.facebook.com/groups/3873874309302852/permalink/4446788635344747/ https://www.facebook.com/groups/2123236454444690/permalink/3425451330889856/ https://databases.000webhost.com/index.php"
+

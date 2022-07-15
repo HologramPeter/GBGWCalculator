@@ -1,0 +1,9 @@
+﻿id,name,src
+1,物理射擊,assets/images/skill/01-beam-shot.svg
+2,鐳射射擊,assets/images/skill/02-physical-shot.svg
+3,物理格鬥,assets/images/skill/03-beam-melee.svg
+4,鐳射格鬥,assets/images/skill/04-physical-melee.svg
+5,能力提升,assets/images/skill/05-buff.svg
+6,覺醒,assets/images/skill/06-awakening.svg
+7,能力下降,assets/images/skill/07-debuff.svg
+8,回復,assets/images/skill/08-recovery.svg

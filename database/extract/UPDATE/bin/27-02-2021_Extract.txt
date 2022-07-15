@@ -1,0 +1,124 @@
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3410,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E9%A0%AD%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',0,5,1,1,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3410,99,2865,2133,8109,393,1208,1159,792);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3410,90,2574,1911,7288,359,1088,1039,723);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3410,80,1624,1199,4600,226,673,653,467);
+INSERT INTO PartTraitList (id,description1) VALUES (3410,'自機が《ガンダムタイプ》の時EXskill初期チャージ量20％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3411,'/gbm/Head%EF%BC%88%E9%A0%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E9%A0%AD%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',1,5,1,1,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3411,99,4757,2473,8949,552,1417,1535,1155);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3411,90,4261,2217,8025,501,1280,1381,1035);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3411,80,2734,1423,5157,327,831,891,665);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3411,'自機が《ガンダムタイプ》の時EXskill初期チャージ量20％上昇','脚部パーツのEXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3412,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',0,5,1,2,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3412,99,4246,3017,3034,752,1913,2120,1738);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3412,90,3819,2709,2726,684,1742,1898,1567);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3412,80,2412,1706,1719,428,1096,1190,994);
+INSERT INTO PartTraitList (id,description1) VALUES (3412,'ダブルサーベルカテゴリ装備時格闘攻撃の威力30％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3413,'/gbm/Body%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%83%B4%E4%BD%93%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',1,5,1,2,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3413,99,6127,3281,3298,974,2097,2460,2091);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3413,90,5494,2939,2956,872,1892,2204,1869);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3413,80,3530,1885,1898,558,1226,1414,1195);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3413,'ダブルサーベルカテゴリ装備時格闘攻撃の威力30％上昇','物理タイプの攻撃時EXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3414,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%85%95%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',0,5,1,3,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3414,99,2690,8312,3332,676,995,2135,777);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3414,90,2416,7457,2990,608,893,1913,708);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3414,80,1523,4694,1883,375,550,1201,456);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (3414,3,'氷嵐焼尽弾',' 貫通：D 威力：B＋ 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3415,'/gbm/Arms%EF%BC%88%E8%85%95%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%85%95%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',1,5,1,3,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3415,99,4586,9097,3838,0,1077,2475,1140);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3415,90,4107,8156,3444,0,974,2219,1020);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3415,80,2634,5240,2216,0,634,1425,653);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (3415,3,'★氷嵐焼尽弾',' 貫通：D 威力：A 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3416,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',0,5,1,4,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3416,99,3334,3026,1936,1010,1698,3484,2131);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3416,90,2992,2718,1730,908,1544,3125,1909);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3416,80,1884,1713,1083,561,970,1967,1198);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (3416,3,'剣勢拳',' 貫通：D 威力：B＋ 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3417,'/gbm/Legs%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%84%9A%E9%83%A8%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',1,5,1,4,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3417,99,5166,3454,2449,1092,1865,3824,2471);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3417,90,4636,3095,2192,989,1694,3431,2215);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3417,80,2982,1986,1405,645,1108,2206,1422);
+INSERT INTO PartSkillList (id,type,name,description) VALUES (3417,3,'★剣勢拳',' 貫通：D 威力：A 冷卻：21秒（初回 6秒）');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3418,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',0,5,1,5,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3418,99,4235,2857,1955,1208,1685,2103,1742);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3418,90,3807,2566,1749,1088,1531,1881,1571);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3418,80,2403,1618,1097,673,960,1177,996);
+INSERT INTO PartTraitList (id,description1) VALUES (3418,'自機の属性がTechniqueの時格闘攻撃の会心率30％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3419,'/gbm/Back%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BB%E7%83%88%E5%85%89%E3%81%AE%E9%8E%A7%EF%BC%BD%EF%BC%88%E8%83%8C%E4%B8%AD%EF%BC%89','烈光頑駄無［烈光の鎧］','REKKO GUNDAM',1,5,1,5,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3419,99,6116,3290,2667,1417,1852,2443,2095);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3419,90,5483,2948,2394,1280,1681,2186,1873);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3419,80,3522,1892,1540,831,1099,1401,1198);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3419,'自機の属性がTechniqueの時格闘攻撃の会心率30％上昇','腕パーツのEXskillの威力35％上昇');
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3420,'/gbm/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E8%B1%AA%E5%B5%90%E4%B8%B8%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','豪嵐丸','REKKO GUNDAM',0,5,1,6,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3420,99,2690,10060,0,552,1457,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3420,90,2416,9034,0,501,1320,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3420,80,1523,5695,0,313,826,0,0);
+INSERT INTO PartTraitList (id,description1) VALUES (3420,'ミッション開始から10秒後EXskillの威力30％上昇');
+INSERT INTO PartSwordList (id,type) VALUES (3420,1);
+INSERT INTO PartDamageList (id,type) VALUES (3420,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3421,'/gbm/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E8%B1%AA%E5%B5%90%E4%B8%B8%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','豪嵐丸','REKKO GUNDAM',1,5,1,6,13,6);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3421,99,4586,10628,0,735,1603,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3421,90,4107,9534,0,666,1449,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3421,80,2634,6129,0,435,942,0,0);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3421,'ミッション開始から10秒後EXskillの威力30％上昇','自機の属性がTechniqueの時敵の格闘攻撃の威力30％減少');
+INSERT INTO PartSwordList (id,type) VALUES (3421,1);
+INSERT INTO PartDamageList (id,type) VALUES (3421,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3422,'/gbm/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%83%88%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%EF%BC%BB%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BD%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','トンファー［烈光頑駄無］','REKKO GUNDAM',0,5,1,6,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3422,99,2690,10060,0,552,1457,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3422,90,2416,9034,0,501,1320,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3422,80,1523,5695,0,313,826,0,0);
+INSERT INTO PartTraitList (id,description1) VALUES (3422,'物理タイプの攻撃時格闘攻撃の威力30％上昇');
+INSERT INTO PartSwordList (id,type) VALUES (3422,2);
+INSERT INTO PartDamageList (id,type) VALUES (3422,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3423,'/gbm/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E3%83%88%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%EF%BC%BB%E7%83%88%E5%85%89%E9%A0%91%E9%A7%84%E7%84%A1%EF%BC%BD%EF%BC%88%E6%A0%BC%E9%97%98%EF%BC%89','トンファー［烈光頑駄無］','REKKO GUNDAM',1,5,1,6,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3423,99,4586,10628,0,735,1603,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3423,90,4107,9534,0,666,1449,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3423,80,2634,6129,0,435,942,0,0);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3423,'物理タイプの攻撃時格闘攻撃の威力30％上昇','敵機を1体撃墜した時一度だけクールタイムが50％減少');
+INSERT INTO PartSwordList (id,type) VALUES (3423,2);
+INSERT INTO PartDamageList (id,type) VALUES (3423,1);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3424,'/gbm/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AB%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89%E4%B8%80%E8%A6%A7/%E5%8E%B3%E5%85%89%E3%81%AE%E5%BC%93%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89','厳光の弓','REKKO GUNDAM',0,5,1,7,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3424,99,3038,0,10070,397,1464,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3424,90,2730,0,9044,362,1328,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3424,80,1722,0,5702,229,831,0,0);
+INSERT INTO PartTraitList (id,description1) VALUES (3424,'自機が《ガンダムタイプ》の時EXskill初期チャージ量20％上昇');
+INSERT INTO PartGunList (id,type) VALUES (3424,1);
+INSERT INTO PartDamageList (id,type) VALUES (3424,2);
+
+
+INSERT INTO PartList (id,link,name,model,altered,rarity,attribute,partType,word1,word2) VALUES (3425,'/gbm/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AB%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89%E4%B8%80%E8%A6%A7/%E3%80%90%E6%94%B9%E9%80%A0%E3%80%91%E5%8E%B3%E5%85%89%E3%81%AE%E5%BC%93%EF%BC%88%E5%B0%84%E6%92%83%EF%BC%89','厳光の弓','REKKO GUNDAM',1,5,1,7,13,26);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3425,99,4928,0,10472,556,1611,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3425,90,4415,0,9395,505,1457,0,0);
+INSERT INTO PartStatList (id,level,arm,mel,sht,bmr,phr,mdf,sdf) VALUES (3425,80,2833,0,6041,330,947,0,0);
+INSERT INTO PartTraitList (id,description1,description2) VALUES (3425,'自機が《ガンダムタイプ》の時EXskill初期チャージ量20％上昇','自機が《電脳適正》の時EXskillの威力35％上昇');
+INSERT INTO PartGunList (id,type) VALUES (3425,1);
+INSERT INTO PartDamageList (id,type) VALUES (3425,2);
+
+
